@@ -7,6 +7,6 @@ The system validates user credentials and provides real-time feedback to enhance
 # Technologies Used: Java, Swing (GUI)
 
 # Features:
-Secure login with GUI
-Account lockout after multiple failed attempts
+Secure login with GUI | 
+Account lockout after multiple failed attempts | 
 Real-time status messages
